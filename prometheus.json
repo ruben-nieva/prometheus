@@ -84,7 +84,7 @@
                 }
               }
             } ],
-            "image" : "fabric8/prometheus-kubernetes:2.2.218",
+            "image" : "prometheus:v1",
             "livenessProbe" : {
               "tcpSocket" : {
                 "port" : 9090
